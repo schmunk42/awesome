@@ -247,6 +247,7 @@
 	- [Education](https://github.com/pehapkari/awesome-symfony-education)
 - [Laravel](https://github.com/chiraggude/awesome-laravel) - PHP framework.
 	- [Education](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/en_US.md)
+- [Yii Framework](https://github.com/awesome-yii/list) - PHP framework.
 - [Rails](https://github.com/ekremkaraca/awesome-rails) - Web app framework for Ruby.
 	- [Gems](https://github.com/hothero/awesome-rails-gem) - Packages.
 - [Phalcon](https://github.com/phalcon/awesome-phalcon)
